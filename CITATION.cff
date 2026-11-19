@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite them as below."
+type: dataset
+title: "Open access because of policy: data and code for probabilities of causation of Polish transformative agreements and the NCN open-access mandate"
+authors:
+  - family-names: Deja
+    given-names: Marek
+    affiliation: Jagiellonian University
+    orcid: "https://orcid.org/0000-0003-0015-2322"
+version: "1.0.0"
+date-released: "2026-11-19"
+license: CC-BY-4.0
+repository-code: "https://github.com/MarekDejaUJ/oa-policy-attribution-poland"
+keywords:
+  - transformative agreements
+  - open access mandates
+  - probabilities of causation
+  - partial identification
+  - OpenAlex

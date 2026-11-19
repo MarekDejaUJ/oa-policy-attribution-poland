@@ -1,0 +1,7 @@
+check	value_1	value_2	value_3	passed
+S1 OPUS 20 minus OPUS 19 exceeds twice the OPUS 19 minus OPUS 18 change	0.12418226934356	-0.0140846635309803	0.0306079324678708	TRUE
+S2 layer outside agreements	0.66362660944206	0.58117900101624	0.545735204317674	FALSE
+S2 layer covered by an agreement	0.696	0.552854258266198	0.528276867682745	FALSE
+S3 CC BY share among licensed-open, cohort M	0.868571428571429	1925	NA	TRUE
+S3 CC BY share among licensed-open, cohort C	0.850913376546847	1697	NA	TRUE
+S3 CC BY share among licensed-open, cohort P	0.817941952506596	1516	NA	TRUE

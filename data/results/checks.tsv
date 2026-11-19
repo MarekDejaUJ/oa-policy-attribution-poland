@@ -1,0 +1,9 @@
+check	passed	detail
+IEEE lacks foreign corresponding-author articles before its agreement	TRUE	IEEE is excluded because the trend comparison needs these articles
+Li-Pearl and exact LP agree for PNS and PN	TRUE	
+Shu-Wang-Li comparator agrees where it applies	TRUE	
+Exact PNS equals max(0, p - q) and min(p, 1 - q)	TRUE	
+Point regions reproduce the complete-margin intervals	TRUE	
+Regions are nested: point within margin within margin-and-choice	TRUE	
+Monotone PNS equals p - q wherever the binary monotone model is compatible	TRUE	
+Pooled strata point results equal article-weighted sums of yearly bounds	TRUE	

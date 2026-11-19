@@ -1,0 +1,43 @@
+{
+  "script": "analysis.R",
+  "pnsbib": "0.2.0",
+  "backend": "zig",
+  "alpha": 0.05,
+  "checks_passed": true,
+  "n_checks": 8,
+  "outputs_sha256": {
+    "agreement_checks.tsv": "30362346e7bf01ce54f51c80bd4f76bed9649a76ae15715b9a98e86f326bad63",
+    "agreement_inputs.tsv": "62032cdddb01ee4c29cbe17abb97ae08a7d40f171682851145bcc32eff684b4d",
+    "agreement_monotone.tsv": "5d46f3f690d614177fc22c88310114748d91e6fd9b12a5f3f26ff851bd616af0",
+    "agreement_publisher_choice.tsv": "14cc1210ebf5d13f43b6e4fd3ae7d119da29bb75f782c0cd1a3b075cd0ff8174",
+    "attribution_bounds.tsv": "2ff90d86dd40f6256cc3e2ad14715eea4038a0c9811efb7ce5c55b18adacc2cd",
+    "attribution_regions.tsv": "a81f41fa1449b2a54e866dcc7e4fe5324021314a309219d6d028983843e89324",
+    "breakdown.tsv": "e98cbfa66e34b66a8ba89c7371bc404769a7dfe807bacc7c6de78ab893076a41",
+    "checks.tsv": "8623293459374c51ae2528db2fb2deff7db1824944a4d93e65979fa391bff6b9",
+    "fig-attribution.data.tsv": "4b82ea1b17e608aa56e67edd787a67a7baf0c4fd3790337ebe1d843b51608373",
+    "fig-attribution.pdf": "275b8e86ff61adf45c0c1933ebfbd39b55bf084d5a5483703be5ca1a2bb2ab49",
+    "fig-attribution.png": "0e3da2150b298c6a7789157478ced61bcd8c50feb72d12f79ee318fbc2788a8a",
+    "fig-design.data.tsv": "e9fda0e2ad0370dec6517e0bec1e07429c5a6c38664f3bb09cb1a670ebb15df4",
+    "fig-design.pdf": "b2aef8a306d7cdad7c5973ecc424ab863931f44389fa4d78067035ca13e03c87",
+    "fig-design.png": "f9d1ccc40f87f9ba48019d17859b828ee422f9278fbaf766f14a0cfb7512f05b",
+    "fig-flows.data.tsv": "09c51a35ef407c074c643ef94e7af103631a49f745a06154349d4e8850ec0b62",
+    "fig-flows.pdf": "21789b4b2925f18b5066f2f3bb849fddfdf53c0604cc9772512f01430361051b",
+    "fig-flows.png": "9f9a563a57211faa88ab6901d1a4e0c00ba0f85c17004fdee08f84abcc440d42",
+    "flow_bounds.tsv": "c3cc0cb152000ee8c077c848c800f5e32f03cf20b5bdd204b7485c46332f793f",
+    "mandate_checks.tsv": "b4dd55e6227cb26aef0f5a5ac2249303f0b89e6284a695a48dc52436b3d9f98a",
+    "mandate_inputs.tsv": "2e0f83d0c34e570380e69cf7e8424e00f2d0cfedeb4afb1665704ff5559d1d73",
+    "mandate_monotone.tsv": "8c3ec1b0d4cb0a704c830720a441e38aa4053330d8193686ea66eefc582fa819",
+    "pooled.tsv": "3fff30a96ad46de08216d5644bec15274dfc3bbb21cf628b662dc9103cc37cd4",
+    "sessionInfo.txt": "2f91610cc3e2535ff6049b2841e8bcd4ffb01859b5e5facb2495d32f782f04a0"
+  },
+  "inputs_sha256": {
+    "aggregates/agreement_counts.tsv": "41a5e62cf2e6a4eda55a1d70fecb8a764da1ce568ce874d8f2b48f05ff956a83",
+    "aggregates/agreement_ncn_funding.tsv": "5874715f85ecad9f4561c5ddf55ce5157a0de294bbe73b6fc0aa6f33157ac827",
+    "aggregates/mandate_counts.tsv": "34bc015119aeb9307819512b4cc14a4cb1487723b598568593eb90856acbdd23",
+    "aggregates/mandate_licences.tsv": "77f89ab39392ca70afabed70ceb30ededc8083bfa62f8e0d3f78fe064b0c6c1b",
+    "aggregates/mandate_opus.tsv": "53ecca2d0710a25ed42178586482b5e0da2af739e59675bec53755a109b44fee",
+    "aggregates/measurement_check.tsv": "dd248794a76aeeee750be6d7ed9e0de2c7636f93b97e468dbe883ae2588d1863",
+    "aggregates/venue_counts.tsv": "093b4b24ce60bc69e01fbc98eee6caeb69d6a18220d1e56fbe5de26e2e11309a",
+    "aggregates/venue_outside_open.tsv": "31d7b1078717869762622ddbd6b75b73396a012ccb8c63ba4b500c51e4a22c53"
+  }
+}

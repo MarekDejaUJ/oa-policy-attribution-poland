@@ -1,0 +1,29 @@
+{
+  "title": "Open access because of policy: data and code for probabilities of causation of Polish transformative agreements and the NCN open-access mandate",
+  "upload_type": "dataset",
+  "description": "Aggregate counts derived from OpenAlex records (retrieved 9 October 2026) for articles by authors from 20 Polish universities, the R analysis script and the result tables for the article 'Open access because of policy: Probabilities of causation for Polish transformative agreements and the open-access mandate of the National Science Centre'. The script bounds the probability of necessity and sufficiency (PNS) and the probability of necessity (PN) of licensed open access under counterfactual comparisons, negative-control margins, a publisher-choice region and a sampling projection, using the R package pnsbib 0.2.0.",
+  "creators": [
+    {
+      "name": "Deja, Marek",
+      "affiliation": "Jagiellonian University",
+      "orcid": "0000-0003-0015-2322"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "transformative agreements",
+    "open access mandates",
+    "probabilities of causation",
+    "partial identification",
+    "OpenAlex",
+    "research policy evaluation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/MarekDejaUJ/pnsbib",
+      "relation": "requires",
+      "resource_type": "software"
+    }
+  ]
+}
